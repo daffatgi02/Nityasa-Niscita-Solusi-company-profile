@@ -1,0 +1,63 @@
+{
+  "logo": "Nityasa Niscita Solusi",
+  "companyName": "Nityasa Niscita Solusi",
+  "tagline": "Catalyst in Insurance Industry",
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/",
+      "isExternal": false
+    },
+    {
+      "label": "Services",
+      "href": "/services",
+      "isExternal": false
+    },
+    {
+      "label": "Articles",
+      "href": "/articles",
+      "isExternal": false
+    },
+    {
+      "label": "Our Team",
+      "href": "/team",
+      "isExternal": false
+    },
+    {
+      "label": "Portfolio",
+      "href": "/portfolio",
+      "isExternal": false
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "isExternal": false
+    }
+  ],
+  "contact": {
+    "email": "info@nityasa-niscita-solusi.com",
+    "phone": "+62 812 3456 7890",
+    "whatsapp": "+62 812 3456 7890",
+    "address": "Jakarta, Indonesia",
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/company/nityasa-niscita-solusi",
+      "twitter": "https://twitter.com/nityasaniscita",
+      "instagram": "https://instagram.com/nityasaniscita",
+      "facebook": "https://facebook.com/nityasaniscita"
+    }
+  },
+  "seo": {
+    "title": "Nityasa Niscita Solusi - Professional Actuarial Consulting",
+    "description": "Professional actuarial consulting services - Catalyst in insurance industry. Bridging actuaries to real insurance challenges.",
+    "keywords": [
+      "actuarial consulting",
+      "insurance",
+      "actuarial services",
+      "risk management",
+      "pricing",
+      "reserving",
+      "insurance training"
+    ],
+    "ogImage": "/images/company/og-image.jpg"
+  }
+}

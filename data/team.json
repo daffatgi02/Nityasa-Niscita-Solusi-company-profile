@@ -1,0 +1,161 @@
+{
+  "teamMembers": [
+    {
+      "id": "john-smith",
+      "name": "John Smith",
+      "role": "Chief Actuarial Officer",
+      "department": "Leadership",
+      "bio": "John is a seasoned actuary with over 15 years of experience in the insurance industry. He specializes in life insurance pricing and has led numerous successful product launches.",
+      "avatar": "/images/team/john-smith.jpg",
+      "email": "john.smith@nityasa-niscita-solusi.com",
+      "linkedin": "https://linkedin.com/in/johnsmith-actuary",
+      "specializations": [
+        "Life Insurance Pricing",
+        "Product Development",
+        "Risk Management",
+        "Team Leadership"
+      ],
+      "experience": "15+ years",
+      "education": [
+        {
+          "degree": "Master of Science",
+          "institution": "University of Indonesia",
+          "year": "2008",
+          "field": "Actuarial Science"
+        },
+        {
+          "degree": "Bachelor of Mathematics",
+          "institution": "Institut Teknologi Bandung",
+          "year": "2006",
+          "field": "Statistics"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Fellow of the Society of Actuaries",
+          "issuer": "Society of Actuaries",
+          "year": "2015",
+          "credentialId": "FSA-12345"
+        },
+        {
+          "name": "Certified Risk Manager",
+          "issuer": "Global Risk Management Institute",
+          "year": "2018"
+        }
+      ],
+      "isActive": true,
+      "order": 1,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "sarah-johnson",
+      "name": "Sarah Johnson",
+      "role": "Senior Consulting Actuary",
+      "department": "Consulting",
+      "bio": "Sarah specializes in property and casualty insurance with extensive experience in claims reserving and predictive modeling.",
+      "avatar": "/images/team/sarah-johnson.jpg",
+      "email": "sarah.johnson@nityasa-niscita-solusi.com",
+      "linkedin": "https://linkedin.com/in/sarahjohnson-actuary",
+      "specializations": [
+        "P&C Insurance",
+        "Claims Reserving",
+        "Predictive Modeling",
+        "Data Analytics"
+      ],
+      "experience": "12+ years",
+      "education": [
+        {
+          "degree": "PhD in Actuarial Science",
+          "institution": "Universitas Gadjah Mada",
+          "year": "2012",
+          "field": "Risk Management"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Associate of the Casualty Actuarial Society",
+          "issuer": "Casualty Actuarial Society",
+          "year": "2014",
+          "credentialId": "ACAS-67890"
+        }
+      ],
+      "isActive": true,
+      "order": 2,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "michael-chen",
+      "name": "Michael Chen",
+      "role": "Actuarial Analyst",
+      "department": "Analysis",
+      "bio": "Michael is a talented young actuary focusing on health insurance and emerging technologies in actuarial science.",
+      "avatar": "/images/team/michael-chen.jpg",
+      "email": "michael.chen@nityasa-niscita-solusi.com",
+      "linkedin": "https://linkedin.com/in/michaelchen-actuary",
+      "specializations": [
+        "Health Insurance",
+        "Data Science",
+        "Machine Learning",
+        "Emerging Technologies"
+      ],
+      "experience": "5+ years",
+      "education": [
+        {
+          "degree": "Master of Actuarial Science",
+          "institution": "University of Melbourne",
+          "year": "2019",
+          "field": "Actuarial Science"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Associate of the Institute of Actuaries",
+          "issuer": "Institute and Faculty of Actuaries",
+          "year": "2021"
+        }
+      ],
+      "isActive": true,
+      "order": 3,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "lisa-wong",
+      "name": "Lisa Wong",
+      "role": "Training Director",
+      "department": "Training",
+      "bio": "Lisa leads our training division and has developed comprehensive curricula for actuarial education and professional development.",
+      "avatar": "/images/team/lisa-wong.jpg",
+      "email": "lisa.wong@nityasa-niscita-solusi.com",
+      "linkedin": "https://linkedin.com/in/lisawong-educator",
+      "specializations": [
+        "Actuarial Education",
+        "Curriculum Development",
+        "Professional Training",
+        "Knowledge Transfer"
+      ],
+      "experience": "10+ years",
+      "education": [
+        {
+          "degree": "Master of Education",
+          "institution": "National University of Singapore",
+          "year": "2014",
+          "field": "Adult Learning"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Professional Trainer",
+          "issuer": "International Association of Training",
+          "year": "2016"
+        }
+      ],
+      "isActive": true,
+      "order": 4,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

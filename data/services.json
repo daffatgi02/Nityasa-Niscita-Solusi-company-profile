@@ -1,0 +1,112 @@
+{
+  "services": [
+    {
+      "id": "actuarial-consulting",
+      "title": "Actuarial Consulting",
+      "description": "Comprehensive actuarial consulting services for insurance companies, including risk assessment, product development, and regulatory compliance.",
+      "features": [
+        "Risk Assessment & Modeling",
+        "Product Development Support",
+        "Regulatory Compliance",
+        "Capital Management",
+        "IFRS 17 Implementation"
+      ],
+      "icon": "calculator",
+      "category": "consulting",
+      "duration": "Project-based",
+      "price": "Contact for quote",
+      "isPopular": true,
+      "order": 1
+    },
+    {
+      "id": "pricing-reserving",
+      "title": "Pricing & Reserving",
+      "description": "Expert pricing strategies and reserving methodologies to optimize profitability and ensure adequate reserves.",
+      "features": [
+        "Premium Pricing Models",
+        "Claims Reserving",
+        "Profitability Analysis",
+        "Experience Studies",
+        "Rate Filing Support"
+      ],
+      "icon": "trending-up",
+      "category": "consulting",
+      "duration": "3-6 months",
+      "price": "Contact for quote",
+      "isPopular": true,
+      "order": 2
+    },
+    {
+      "id": "training-workshop",
+      "title": "Professional Training & Workshops",
+      "description": "Comprehensive training programs designed to enhance actuarial skills and knowledge.",
+      "features": [
+        "Values & Profit Analysis",
+        "Advanced Pricing Techniques",
+        "Reserving Methodologies",
+        "Risk Management",
+        "Industry Best Practices"
+      ],
+      "icon": "graduation-cap",
+      "category": "training",
+      "duration": "1-5 days",
+      "price": "Starting from $500",
+      "isPopular": false,
+      "order": 3
+    },
+    {
+      "id": "research-development",
+      "title": "Research & Development",
+      "description": "Cutting-edge research in actuarial science and development of innovative solutions for the insurance industry.",
+      "features": [
+        "Industry Research",
+        "Product Innovation",
+        "Methodology Development",
+        "Market Analysis",
+        "Thought Leadership"
+      ],
+      "icon": "search",
+      "category": "research",
+      "duration": "Ongoing",
+      "price": "Contact for partnership",
+      "isPopular": false,
+      "order": 4
+    },
+    {
+      "id": "regulatory-compliance",
+      "title": "Regulatory Compliance",
+      "description": "Expert guidance on regulatory requirements and compliance across multiple jurisdictions.",
+      "features": [
+        "Regulatory Filing Support",
+        "Compliance Assessment",
+        "Policy Review",
+        "Audit Support",
+        "Risk Framework Development"
+      ],
+      "icon": "shield",
+      "category": "consulting",
+      "duration": "Project-based",
+      "price": "Contact for quote",
+      "isPopular": false,
+      "order": 5
+    },
+    {
+      "id": "digital-transformation",
+      "title": "Digital Transformation",
+      "description": "Help insurance companies modernize their actuarial processes through technology and automation.",
+      "features": [
+        "Process Automation",
+        "Data Analytics Implementation",
+        "System Integration",
+        "Technology Assessment",
+        "Change Management"
+      ],
+      "icon": "cpu",
+      "category": "consulting",
+      "duration": "6-12 months",
+      "price": "Contact for quote",
+      "isPopular": true,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Nityasa Niscita Solusi",
+    "description": "We are a professional actuarial consulting firm specializing in insurance and actuarial services. Our mission is to be a catalyst in the insurance industry, increase the value of actuaries, and bridge actuaries to real insurance challenges.",
+    "established": "2020",
+    "industry": "Actuarial Consulting & Insurance Services",
+    "specializations": [
+      "Actuarial Consulting",
+      "Insurance Risk Management",
+      "Pricing & Reserving",
+      "Professional Training",
+      "Research & Development"
+    ]
+  },
+  "visionMission": {
+    "vision": "To be the leading actuarial consulting firm that transforms the insurance industry through innovative solutions and professional excellence.",
+    "mission": [
+      "Act as a catalyst in the insurance industry transformation",
+      "Increase the value and impact of actuaries in the market",
+      "Bridge actuaries to real-world insurance challenges",
+      "Provide world-class training and development programs",
+      "Drive innovation through research and development"
+    ]
+  },
+  "coreValues": [
+    {
+      "title": "Professional Excellence",
+      "description": "We maintain the highest standards of professional competence and ethical conduct in all our services.",
+      "icon": "award"
+    },
+    {
+      "title": "Innovation",
+      "description": "We embrace innovation and continuously seek new ways to solve complex actuarial challenges.",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "Collaboration",
+      "description": "We believe in the power of collaboration and building strong partnerships with our clients.",
+      "icon": "users"
+    },
+    {
+      "title": "Integrity",
+      "description": "We conduct our business with honesty, transparency, and unwavering ethical standards.",
+      "icon": "shield-check"
+    }
+  ],
+  "stats": {
+    "yearsExperience": 4,
+    "clientsServed": 50,
+    "projectsCompleted": 120,
+    "teamMembers": 12
+  }
+}

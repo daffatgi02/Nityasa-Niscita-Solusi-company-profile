@@ -1,0 +1,177 @@
+{
+  "articles": [
+    {
+      "id": "future-of-actuarial-science",
+      "title": "The Future of Actuarial Science: Embracing Digital Transformation",
+      "slug": "future-of-actuarial-science",
+      "excerpt": "Explore how digital transformation is reshaping the actuarial profession and what it means for insurance companies and actuaries alike.",
+      "content": "The actuarial profession is undergoing a significant transformation as digital technologies reshape the insurance landscape. From artificial intelligence to big data analytics, actuaries must adapt to new tools and methodologies to remain relevant and effective...",
+      "featuredImage": "/images/articles/future-actuarial-science.jpg",
+      "category": {
+        "id": "industry-trends",
+        "name": "Industry Trends",
+        "slug": "industry-trends",
+        "color": "#3B82F6"
+      },
+      "author": {
+        "id": "john-smith",
+        "name": "John Smith",
+        "role": "Chief Actuarial Officer",
+        "avatar": "/images/team/john-smith.jpg",
+        "bio": "Seasoned actuary with 15+ years experience"
+      },
+      "publishedAt": "2024-08-15T10:00:00Z",
+      "readingTime": 8,
+      "tags": [
+        "digital transformation",
+        "artificial intelligence",
+        "actuarial science",
+        "insurance technology"
+      ],
+      "isPublished": true,
+      "isFeatured": true,
+      "seo": {
+        "title": "The Future of Actuarial Science - Digital Transformation in Insurance",
+        "description": "Discover how digital transformation is revolutionizing actuarial science and insurance industry practices.",
+        "keywords": [
+          "actuarial science",
+          "digital transformation",
+          "insurance technology",
+          "AI in insurance"
+        ],
+        "ogImage": "/images/articles/future-actuarial-science-og.jpg"
+      },
+      "createdAt": "2024-08-15T09:00:00Z",
+      "updatedAt": "2024-08-15T09:00:00Z"
+    },
+    {
+      "id": "ifrs-17-implementation-guide",
+      "title": "IFRS 17 Implementation: A Practical Guide for Insurance Companies",
+      "slug": "ifrs-17-implementation-guide",
+      "excerpt": "A comprehensive guide to implementing IFRS 17 standards, covering key challenges and practical solutions for insurance companies.",
+      "content": "The implementation of IFRS 17 represents one of the most significant changes in insurance accounting standards. This comprehensive guide covers the essential aspects of IFRS 17 implementation...",
+      "featuredImage": "/images/articles/ifrs-17-guide.jpg",
+      "category": {
+        "id": "regulatory",
+        "name": "Regulatory",
+        "slug": "regulatory",
+        "color": "#EF4444"
+      },
+      "author": {
+        "id": "sarah-johnson",
+        "name": "Sarah Johnson",
+        "role": "Senior Consulting Actuary",
+        "avatar": "/images/team/sarah-johnson.jpg",
+        "bio": "P&C Insurance specialist with regulatory expertise"
+      },
+      "publishedAt": "2024-08-10T14:30:00Z",
+      "readingTime": 12,
+      "tags": [
+        "IFRS 17",
+        "accounting standards",
+        "regulatory compliance",
+        "insurance accounting"
+      ],
+      "isPublished": true,
+      "isFeatured": true,
+      "seo": {
+        "title": "IFRS 17 Implementation Guide - Insurance Accounting Standards",
+        "description": "Complete guide to IFRS 17 implementation for insurance companies with practical solutions and expert insights.",
+        "keywords": [
+          "IFRS 17",
+          "insurance accounting",
+          "regulatory compliance",
+          "accounting standards"
+        ]
+      },
+      "createdAt": "2024-08-10T13:00:00Z",
+      "updatedAt": "2024-08-10T13:00:00Z"
+    },
+    {
+      "id": "machine-learning-pricing-models",
+      "title": "Machine Learning in Insurance Pricing: Opportunities and Challenges",
+      "slug": "machine-learning-pricing-models",
+      "excerpt": "Discover how machine learning is transforming insurance pricing models and the key considerations for successful implementation.",
+      "content": "Machine learning technologies are revolutionizing how insurance companies approach pricing. This article explores the opportunities and challenges of implementing ML-based pricing models...",
+      "featuredImage": "/images/articles/ml-pricing-models.jpg",
+      "category": {
+        "id": "technology",
+        "name": "Technology",
+        "slug": "technology",
+        "color": "#10B981"
+      },
+      "author": {
+        "id": "michael-chen",
+        "name": "Michael Chen",
+        "role": "Actuarial Analyst",
+        "avatar": "/images/team/michael-chen.jpg",
+        "bio": "Data science and machine learning specialist"
+      },
+      "publishedAt": "2024-08-05T11:15:00Z",
+      "readingTime": 10,
+      "tags": [
+        "machine learning",
+        "insurance pricing",
+        "data science",
+        "predictive modeling"
+      ],
+      "isPublished": true,
+      "isFeatured": false,
+      "seo": {
+        "title": "Machine Learning in Insurance Pricing - Modern Actuarial Methods",
+        "description": "Explore how machine learning is transforming insurance pricing with expert insights and practical applications.",
+        "keywords": [
+          "machine learning",
+          "insurance pricing",
+          "actuarial modeling",
+          "data science"
+        ]
+      },
+      "createdAt": "2024-08-05T10:00:00Z",
+      "updatedAt": "2024-08-05T10:00:00Z"
+    },
+    {
+      "id": "professional-development-actuaries",
+      "title": "Professional Development for Modern Actuaries: Skills for the Future",
+      "slug": "professional-development-actuaries",
+      "excerpt": "Essential skills and continuous learning strategies for actuaries to stay competitive in the evolving insurance landscape.",
+      "content": "The actuarial profession continues to evolve, requiring professionals to develop new skills and competencies. This article outlines the essential areas for professional development...",
+      "featuredImage": "/images/articles/professional-development.jpg",
+      "category": {
+        "id": "education",
+        "name": "Education",
+        "slug": "education",
+        "color": "#F59E0B"
+      },
+      "author": {
+        "id": "lisa-wong",
+        "name": "Lisa Wong",
+        "role": "Training Director",
+        "avatar": "/images/team/lisa-wong.jpg",
+        "bio": "Professional training and development specialist"
+      },
+      "publishedAt": "2024-07-28T16:00:00Z",
+      "readingTime": 6,
+      "tags": [
+        "professional development",
+        "actuarial education",
+        "career advancement",
+        "skills development"
+      ],
+      "isPublished": true,
+      "isFeatured": false,
+      "seo": {
+        "title": "Professional Development for Actuaries - Skills for the Future",
+        "description": "Learn about essential skills and development strategies for modern actuaries in the evolving insurance industry.",
+        "keywords": [
+          "actuarial career",
+          "professional development",
+          "actuarial skills",
+          "career advancement"
+        ]
+      },
+      "createdAt": "2024-07-28T15:00:00Z",
+      "updatedAt": "2024-07-28T15:00:00Z"
+    }
+  ]
+}
